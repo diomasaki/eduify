@@ -19,4 +19,7 @@ arrows.forEach((arrow, i) => {
   console.log(movieLists[i].querySelectorAll("img").length);
 });
 
-//COMIT MAIN
+// PERUBAHAN FILE INI
+
+
+// FIX ROUTER
