@@ -19,7 +19,4 @@ arrows.forEach((arrow, i) => {
   console.log(movieLists[i].querySelectorAll("img").length);
 });
 
-// PERUBAHAN FILE INI
-
-
-// FIX ROUTER
+// PERUBAHAN DARI BRANCH MASTER
